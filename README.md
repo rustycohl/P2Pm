@@ -2,7 +2,7 @@
 
 Point to Point Media artifact work, evidence binding, and portable ownership state.
 
-This is an independent Ground Zero Gaming server-card port:
+This is an independent Ground Zero Games server-card port:
 
 - repository: `rustycohl/P2Pm`
 - Page: https://rustycohl.github.io/P2Pm/
