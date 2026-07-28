@@ -1,0 +1,15 @@
+GZG:NOW software version 0.1 is available under either of these licenses,
+at your option:
+
+1. MIT License — see LICENSE-MIT
+2. Apache License 2.0 — see LICENSE-APACHE
+
+Original documentation under docs/ is licensed separately under Creative
+Commons Attribution 4.0 International. See DOCUMENTATION-LICENSE.md.
+
+The initial 0.1.0-alpha.1 publication used Apache-2.0. That grant is
+irrevocable under its terms. MIT is added for the canonical v0.1 release lane;
+existing Apache rights are preserved rather than silently withdrawn.
+
+Beginning with the v0.2 line, new software releases are intended to use
+Apache-2.0 unless a release states otherwise.

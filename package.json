@@ -1,0 +1,10 @@
+{
+  "name": "p2pm",
+  "version": "0.1.0-alpha.1",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "(MIT OR Apache-2.0)"
+}

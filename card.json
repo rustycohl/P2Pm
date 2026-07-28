@@ -1,0 +1,30 @@
+{
+  "schema": "gzg.server-card/0.1",
+  "id": "P2Pm",
+  "version": "0.1.0-alpha.1",
+  "status": "alpha",
+  "tier": 1,
+  "purpose": "Point to Point Media artifact work, evidence binding, and portable ownership state.",
+  "flag": "DEDICATED_REPO_PAGE",
+  "repository": {
+    "required": true,
+    "independent": true,
+    "full_name": "rustycohl/P2Pm"
+  },
+  "page": {
+    "required": true,
+    "url": "https://rustycohl.github.io/P2Pm/"
+  },
+  "authority": {
+    "game_server": "none",
+    "state": "deterministic-local-evidence",
+    "joke_chain": "not-implemented"
+  },
+  "dependencies": [
+    {
+      "id": "ORACLE",
+      "page": "https://rustycohl.github.io/ORACLE/",
+      "runtime_required": false
+    }
+  ]
+}
